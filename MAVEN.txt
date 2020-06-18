@@ -1,0 +1,7 @@
+MAVE的下载与安装 镜像配置
+官网下载地址：http://maven.apache.org/download.cgi
+配置MAVEN的path（指向bin目录） MVN -v检测是否安装成功
+更改 conf/setting.xml 配置阿里云镜像 否则下载很慢
+配置eclipse
+preference-->Maven---->installations (maven的根目录)
+preference-->Maven---->user setting
